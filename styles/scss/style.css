@@ -359,6 +359,7 @@ main {
   border: none;
   font-size: 56px;
   color: #fff;
+  outline: none;
 }
 
 .radio-stop:disabled {
